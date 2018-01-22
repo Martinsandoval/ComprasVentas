@@ -1,0 +1,10 @@
+.headerLogin {
+    background-color: #0053ff;
+    background-image: linear-gradient(#1449bb, #7891c7 50%);
+    border-bottom: 1px solid #bdd2ff;
+    min-height: 42px;
+    color: #FFFFFF;
+}
+.icon-agregar{
+    background-image: url('resources/iconos/add-1.png');
+}
